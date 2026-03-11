@@ -1,0 +1,333 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Thu Jan 14 11:08:02 2016]}
+samples = 400
+lines   = 400
+bands   = 87
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 1
+y start = 1
+wavelength units = Micrometers
+z plot titles = {wavelength (micrometer), 50.00* radiance (W/m^2/micrometer/sr)}
+band names = {
+ Resize (Rotate (Band 1:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 2:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 3:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 4:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 5:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 6:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 7:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 8:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 9:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 10:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 11:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 12:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 13:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 14:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 15:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 16:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 17:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 18:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 19:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 20:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 21:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 22:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 23:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 24:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 25:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 26:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 27:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 28:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 29:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 30:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 31:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 32:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 33:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 34:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 35:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 36:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 37:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 38:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 39:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 40:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 41:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 42:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 43:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 44:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 45:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 46:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 47:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 48:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 49:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 50:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 51:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 52:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 53:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 54:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 55:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 56:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 57:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 58:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 59:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 60:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 61:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 62:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 63:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 64:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 65:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 66:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 67:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 68:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 69:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 70:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 71:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 72:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 73:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 74:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 75:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 76:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 77:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 78:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 79:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 80:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 81:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 82:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 83:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 84:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 85:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 86:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img), 
+ Resize (Rotate (Band 87:iss.2013146.0526.064845.L1B.FRA_Porquerolles.v04.13663.20130528194925.100m.hico.bil):image_HICO_var_26_mai_2013.img)}
+wavelength = {
+ 0.404080, 0.409808, 0.415536, 0.421264, 0.426992, 0.432720, 0.438448,
+ 0.444176, 0.449904, 0.455632, 0.461360, 0.467088, 0.472816, 0.478544,
+ 0.484272, 0.490000, 0.495728, 0.501456, 0.507184, 0.512912, 0.518640,
+ 0.524368, 0.530096, 0.535824, 0.541552, 0.547280, 0.553008, 0.558736,
+ 0.564464, 0.570192, 0.575920, 0.581648, 0.587376, 0.593104, 0.598832,
+ 0.604560, 0.610288, 0.616016, 0.621744, 0.627472, 0.633200, 0.638928,
+ 0.644656, 0.650384, 0.656112, 0.661840, 0.667568, 0.673296, 0.679024,
+ 0.684752, 0.690480, 0.696208, 0.701936, 0.707664, 0.713392, 0.719120,
+ 0.724848, 0.730576, 0.736304, 0.742032, 0.747760, 0.753488, 0.759216,
+ 0.764944, 0.770672, 0.776400, 0.782128, 0.787856, 0.793584, 0.799312,
+ 0.805040, 0.810768, 0.816496, 0.822224, 0.827952, 0.833680, 0.839408,
+ 0.845136, 0.850864, 0.856592, 0.862320, 0.868048, 0.873776, 0.879504,
+ 0.885232, 0.890960, 0.896688}
+fwhm = {
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000, 0.010000,
+ 0.010000, 0.010000, 0.010000, 0.010000, 0.020000, 0.020000, 0.020000,
+ 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000,
+ 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000,
+ 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000, 0.020000,
+ 0.020000, 0.020000, 0.020000}
+version = 1
+scene_id = 13663
+image_unscaled_units = W/m^2/micrometer/sr
+image_center_date = {
+ 2013, 5, 26}
+image_center_time = {
+ 6, 48, 58.777}
+image_center_long = {
+ 6.087024, 0.000000, 0.000}
+image_center_long_hem = E
+image_center_lat = {
+ 43.109303, 0.000000, 0.000}
+image_center_lat_hem = N
+image_center_zenith_ang = {
+ 16.099998, 0.000000, 0.000}
+image_center_azimuth_ang = {
+ 213.165907, 0.000000, 0.000}
+sensor_altitude = 422.89
+image_scale_factor = {
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 50.000000, 
+ 50.000000, 50.000000, 50.000000}
+history = begins
+create_hico_header_version = CREATE_HICO_HEADER, Version 4i, September 2008
+create_hico_header_execute_date_and_time = Tue May 28 16:56:57 2013
+input_file = /projects/home/hico/L1B_gen/working/iss.2013146.0526.064845.L0.13663.20130528194925.hico.bil
+header sync word (sync) = HICO
+data package length (len) = 314573048
+first frame time preamble (ffpre) = 50
+first frame time bcd year msb (ffyearmsb) = 20
+first frame time bcd year lsb (ffyearlsb) = 13
+first frame time bcd month (ffmonth) = 05
+first frame time bcd day (ffday) = 26
+first frame time bcd hours (ffhours) = 06
+first frame time bcd minutes (ffmin) = 48
+first frame time bcd seconds (ffsec) = 45
+spare08 = 0
+first frame time lsb sub-seconds (ffsublsb) = 61A8
+first frame pps hardware seconds count (ffpps) = 708
+first frame pps hardware sub-seconds count (ffppssub) = 3450
+last frame pps hardware seconds count (lfpps) = 735
+last frame pps hardware sub-seconds count (lfppssub) = 33459
+roi width (roiw) = 512
+roi height (roih) = 128
+roi x (roix) = 0
+roi y (roiy) = 0
+horizontal binning (hbin) = 1
+vertical binning (vbin) = 3
+readout port (roport) = 1
+readout speed (rospeed) = 1
+icu application software version (icuswversion) = 13
+camera clearing mode (camclearmode) = 1
+total frames (totalframes) = 2400
+pre-exposure dark frame count (dark1) = 200
+scene data frame count (scene) = 2000
+post-exposure dark frame count (dark2) = 200
+command id (id) = 13663
+exposure time (exptime) microsec = 13700
+first frame iss position vector (ffpos) = {
+ 1.639914E+07, 1289632., 1.502846E+07}
+first frame iss velocity vector (ffvel) = {
+ 7617.976, 20591.05, -10023.45}
+first frame iss attitude quaternion (ffquat) = {
+ 0.9993183, 0.0009498167, -0.01175085, -0.03498541}
+first frame gnc time seconds (ffgncsec) = 1053586122
+first frame gnc time sub-seconds (ffgncsubsec) = 83
+first frame gnc quality flags (ffgncqual) = 00000000
+total error count (totalerr) = 0
+last frame iss position vector (lfpos) = {
+ 1.660542E+07, 1864940., 1.474038E+07}
+last frame iss velocity vector (lfvel) = {
+ 7117.440, 20505.10, -10554.33}
+last frame iss attitude quaterion (lfquat) = {
+ 0.9993209, 0.001000159, -0.01156409, -0.03497059}
+last frame gnc time seconds (lfgncsec) = 1053586150
+last frame gnc time sub-seconds (lfgncsubsec) = 82
+last frame gnc quality flags (lfgncqual) = 00000000
+event data set flags (eventflags) = 0000000000000000
+pre-exposure dark frame offset (dark1offset) = 256
+scene data frame offset (sceneoffset) = 26214656
+post-exposure dark frame offset (dark2offset) = 288358656
+analog amplifier gain (again) = 1000000
+time on interval (t_on) = 120
+time dark interval (t_dark) = 10
+time observation interval (t_obs) = 30
+time angle interval (t_ang) = 300
+trigger pulse period count (triggercount) = 12304
+em gain (emgain) = 0
+pre-exposure dark frame digital telemetry (dark1tel) = 1000000101100000
+pre-exposure dark frame encoder position (dark1pos) = -395
+pre-exposure dark frame trigger pulse count (dark1triggercount) = 201
+scene data frame digital telemetry (scenetel) = 1000000101100000
+scene data frame encoder position (scenepos) = 10580
+scene data frame trigger pulse count (scenetriggercount) = 2001
+post-exposure dark frame digital telemetry (dark2tel) = 1000000101100000
+post-exposure dark frame encoder position (dark2pos) = -395
+post-exposure dark frame trigger pulse count (dark2triggercount) = 201
+time motor initialization interval (t_motor) = 300
+spare100 = 0
+spare101 = 0
+spare102 = 0
+error log count (errorlogcount) = 0
+errors (status words/frame id) = {
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+hico_cal_code = hico_raw_to_radiance.pro
+hico_cal_code_version = Version 4.00.00
+hico_cal_code_version_author = Marcos Montes, marcos.montes@nrl.navy.mil, 202-767-7308
+hico_cal_code_executed_on_computer_name = cannot_be_determined
+hico_cal_code_executed_by_user = hico
+hico_cal_code_idl_os_family = unix
+hico_cal_code_idl_os = linux
+hico_cal_code_idl_os_name = linux
+hico_cal_code_idl_version = 8.0.1
+hico_cal_code_dark_algorithm = R.Lucke_v1
+hico_cal_code_frame_transfer_time_sec = 0.0011100
+hico_cal_code_groove_fraction = unused
+hico_cal_code_blaze_wavelength_micron = unused
+hico_cal_code_second_order_algorithm = /projects/home/hico/L1B_gen/L0_to_L1B/Needed_ancillary_files_v4/HICO_Empirical_water_scale_ftt1.11ms_1_2012.txt
+hico_cal_code_base_dir = /projects/home/hico/L1B_gen/working/
+hico_cal_code_input_dir = /projects/home/hico/L1B_gen/working/./
+hico_cal_code_output_dir = /projects/home/hico/L1B_gen/working/./
+hico_flip_left_right_relative_to_l0 = 1
+hico_flip_cal_coeffs = 1
+hico_cal_shift = 0
+hico_band_scale_factor_filename = /projects/home/hico/L1B_gen/L0_to_L1B/Needed_ancillary_files_v4/Gao_scaling_factor_Final_1_2012.txt
+hico_valid_l0_pixels = {
+ 1, 508}
+hico_firstframe_hicocameratemp = 24.469999
+hico_cal_code_input_raw_file = /projects/home/hico/L1B_gen/working/iss.2013146.0526.064845.L0.13663.20130528194925.hico.bil
+hico_derived_scene_pointing_angle_from_stow_degrees = 43.900
+hico_derived_scene_pointing_angle_from_nadir_degrees = -16.100
+hico_iss_orientation = +XVV
+hico_cal_code_exposure_time_sec = 0.01375
+hico_cal_code_wavelength_file = /projects/home/hico/L1B_gen/working/HICO_Wavlns_FWHM_128_Chnls_Gao_Shift_0p84nm_v2p0_1column.txt
+hico_cal_code_radiometric_calcoeff_file = /projects/home/hico/L1B_gen/working/coeff_080706g10emncexp0137ls4l_it13_ftt111_smoothed_2ndcorrsm074x1_asm10_bsm20_wsm12_iss_1_2012.dat
+hico_cal_mult = 1.320000
+hico_cal_code_darks_used = pre and post
+hico_derived_firstframe_latlonhkm = {
+ 42.59448, 4.49650, 422.908}
+hico_derived_lastframe_latlonhkm = {
+ 41.59587, 6.40798, 422.863}
+hico_derived_firstframeorbitvelmag_kmpersec = 7.356
+hico_derived_lastframeorbitvelmag_kmpersec = 7.356
+hico_estimated_angle_degrees_to_rotate_envi_image_to_map = -58.360
+hico_estimated_latlon_northendfirstframe = {
+ 43.83229, 5.31073}
+hico_estimated_latlon_centerfirstframe = {
+ 43.60875, 5.13548}
+hico_estimated_latlon_southendfirstframe = {
+ 43.39356, 4.96816}
+hico_estimated_latlon_northendlastframe = {
+ 42.83346, 7.21089}
+hico_estimated_latlon_centerlastframe = {
+ 42.60986, 7.03857}
+hico_estimated_latlon_southendlastframe = {
+ 42.39462, 6.87400}
+hico_estimated_position_important_note_readme = POSITIONS IN THIS HEADER FILE ARE APPROXIMATE AND DO NOT ACCOUNT FOR ISS ATTITUDE. USE WITH CAUTION.
+hico_estimated_image_center_latitude = {
+ 43.10930, 0., 0.}
+hico_estimated_image_center_longitude = {
+ 6.08702, 0., 0.}
+hico_estimated_view_zenith_angle = {
+ 16.10000, 0., 0.}
+hico_estimated_view_azimuth_angle = {
+ 213.16591, 0., 0.}
+hico_estimated_solar_zenith_angle = {
+ 62.06009, 0., 0.}
+hico_estimated_solar_azimuth_angle = {
+ 86.62491, 0., 0.}
+hico_estimated_solar_view_geometry_important_note_readme = VIEW AND SOLAR GEOMETRY IN THIS HEADER FILE ARE APPROXIMATE AND DO NOT ACCOUNT FOR ATTITUDE. USE WITH CAUTION.
+hico_orbit_motion_firstframe = descending
+hico_orbit_motion_lastframe = descending
+hico_orientation_from_quaternion = +XVV
+hico_cal_code_processing_start_time_utc = Tue May 28 20:56:57 2013
+hico_number_of_lines_with_saturated_bands = 0
+hico_number_of_lines_affected_by_dropped_packets = 0
+hico_number_of_pixels_with_saturated_bands = 0
+hico_number_of_pixels_with_dropped_packets = 0
+hico_preimage_dark_lines_affected_by_dropped_packets = 0
+hico_postimage_dark_lines_affected_by_dropped_packets = 0
+hico_l0_total_lines_affected_by_dropped_packets = 0
+hico_cal_code_processing_finish_time_utc = Tue May 28 20:57:53 2013
+target_scene_id = 13663
+target_name = FRA_Porquerolles
+target_angle = 43.90
+target_type = image
+target_aos = Sun May 26 06:48:29 2013
+history = ends
