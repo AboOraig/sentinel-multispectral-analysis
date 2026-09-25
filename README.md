@@ -32,9 +32,9 @@ anomaly detection against a spatially varying background.
 | [`Flood`](./Flood) | Sentinel-2 MSI | Bi-temporal flood-extent mapping (Var, Nov. 2019) via NIR thresholding and image differencing |
 | [`Wild fire`](./Wild%20fire) | Sentinel-2 MSI | Burn-scar mapping (Var, 2017) via NDVI thresholding and bi-temporal differencing |
 | [`Port-Cros`](./Port-Cros) | Sentinel-2 MSI | Seasonal vessel-traffic counting via binarization and connected-component labelling |
-| [`Atmospheric correction`](./Atmospheric%20correction) | — | *[describe: shared correction routine, or standalone TP?]* |
-| [`Marine reflectance model`](./Marine%20reflectance%20model) | — | *[describe: shared model used by Bathymetry/Algae, or standalone?]* |
-| [`Water components`](./Water%20components) | — | *[describe: what this isolates/computes]* |
+| [`Atmospheric correction`](./Atmospheric%20correction) | — | — |
+| [`Marine reflectance model`](./Marine%20reflectance%20model) | — | — |
+| [`Water components`](./Water%20components) | — | — |
 
 > The three folders above are described only briefly here — see each
 > folder's own README for details.
