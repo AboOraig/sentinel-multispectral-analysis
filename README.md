@@ -36,9 +36,6 @@ anomaly detection against a spatially varying background.
 | [`Marine reflectance model`](./Marine%20reflectance%20model) | — | — |
 | [`Water components`](./Water%20components) | — | — |
 
-> The three folders above are described only briefly here — see each
-> folder's own README for details.
-
 ## Methodology
 
 All case studies follow a common processing structure: multi-band image
