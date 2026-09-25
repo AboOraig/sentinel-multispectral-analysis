@@ -52,9 +52,6 @@ of validation limitations for the four featured case studies are in the
 - **Landsat 8 OLI** imagery: [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
 - **Pléiades** imagery: Airbus / provided through course materials
 
-Raw imagery is not included in this repository (see `.gitignore`); each
-folder's README notes the specific scene(s) used, where known.
-
 ## Requirements
 
 ```bash
