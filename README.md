@@ -59,9 +59,3 @@ pip install -r requirements.txt
 ```
 
 Core dependencies: `numpy`, `opencv-python`, `scipy`, `matplotlib`.
-
-## Background
-
-This code was developed as practical coursework in aerospace image
-processing at SeaTech Toulon (2024–2025). It is shared here as
-supporting material for the accompanying paper.
