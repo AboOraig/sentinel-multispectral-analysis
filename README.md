@@ -3,7 +3,7 @@
 Python implementations of eight remote-sensing case studies in optical
 image processing — spanning flood mapping, wildfire burn-scar detection,
 land-cover classification, bathymetric retrieval, image fusion, floating-algae
-detection, and vessel counting — using Sentinel-2, Sentinel-3, Landsat 8,
+detection, and vessel counting — using Sentinel-2/3, Landsat 8,
 and Pléiades imagery.
 
 Four of these case studies are written up in detail, with methodology,
